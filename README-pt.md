@@ -27,7 +27,7 @@ Esta ação é emitida para a apresentação HTML5.
 ## Como instalar
 Por enquanto, você deve instalar manulamente :(
 
-Primeiro, se você não possui o node, instale-o.
+Primeiro, se você não possui o Node, instale-o.
 Pesquise do Google, caso você não saiba como fazer isso.
 Instale o socket.io:
 ```cli
