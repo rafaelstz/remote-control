@@ -77,4 +77,4 @@ Se tudo estiver ok, agora você já pode controlar suas apresentações HTML5 co
 [Felipe N. Moura](http://github.com/felipenmoura)
 
 ## Licença
-[MIT License](http://braziljs.mit-license.org/) © BrazilJS Foundation
+[MIT](http://braziljs.mit-license.org/) © BrazilJS Foundation
