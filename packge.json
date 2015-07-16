@@ -3,18 +3,19 @@
   "version": "0.0.1",
   "description": "Remote Control is a remote slide tool",
   "main": "app.js",
-  "directories": {
-    
-  },
   "dependencies": {
     "socket.io" : "0.9.10"
   },
   "engines": {
     "node": ">=0.6.0"
   },
+  "homepage": "https://github.com/braziljs/remote-control",
   "repository": {
     "type": "git",
     "url": "https://github.com/braziljs/remote-control.git"
+  },
+  "bugs": {
+    "url": "https://github.com/braziljs/remote-control/issues"
   },
   "keywords": [
     "slides",
